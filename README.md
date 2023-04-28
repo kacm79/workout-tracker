@@ -1,2 +1,2 @@
 # workout-tracker
-a simple counter of sets and reps
+A simple counter of sets and reps made using vanilla Javascript
